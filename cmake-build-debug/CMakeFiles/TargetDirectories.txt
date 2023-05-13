@@ -1,0 +1,3 @@
+C:/Users/Wayne Cole/CLionProjects/levelthreequest/cmake-build-debug/CMakeFiles/levelthreequest.dir
+C:/Users/Wayne Cole/CLionProjects/levelthreequest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Wayne Cole/CLionProjects/levelthreequest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
